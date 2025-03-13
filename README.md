@@ -68,10 +68,14 @@ Since Render has file size limitations, use **Google Drive** for storing large `
   gdown.download(url, output, quiet=False)
   ```
 
-###Model working Screenshots
+### Model working Screenshots
 Input
 
 ![Model Deployment Screenshot](https://github.com/Krishna-921/house-price-prediction/blob/d82c2b314a7e847808c4a33b1cfa77636c886de7/Screenshot%202025-03-13%20at%2010.19.22%20AM.png)
+
+#MODEL OUTPUT
+![Model Prediction Output](https://github.com/Krishna-921/house-price-prediction/blob/39cdada14e46a08bce364917ab2b14da000b18fa/Screenshot%202025-03-13%20at%2010.19.36%20AM.png)
+
 
 
 ---
