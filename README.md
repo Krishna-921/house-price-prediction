@@ -71,7 +71,7 @@ Since Render has file size limitations, use **Google Drive** for storing large `
 ###Model working Screenshots
 Input
   ```
-Screenshot 2025-03-13 at 10.19.22 AM.png
+![Model Deployment Screenshot](https://github.com/Krishna-921/house-price-prediction/blob/d82c2b314a7e847808c4a33b1cfa77636c886de7/Screenshot%202025-03-13%20at%2010.19.22%20AM.png)
   ```
 
 ---
