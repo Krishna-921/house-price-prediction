@@ -68,6 +68,11 @@ Since Render has file size limitations, use **Google Drive** for storing large `
   gdown.download(url, output, quiet=False)
   ```
 
+###Model working Screenshots
+#Input
+  ```
+  ```
+
 ---
 ## 🎯 Usage Instructions
 1. **Run Locally**:
